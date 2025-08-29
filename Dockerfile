@@ -9,4 +9,4 @@ ENV GENERIC_TIMEZONE=Asia/Jerusalem
 
 EXPOSE 10000
 
-CMD ["n8n"]
+CMD ["n8n", "start"]
